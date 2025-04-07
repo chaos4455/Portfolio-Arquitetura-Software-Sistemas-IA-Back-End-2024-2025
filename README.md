@@ -10,6 +10,11 @@ Saudações! Sou Elias Andrade, Arquiteto de Sistemas de IA baseado em Maringá,
 
 Minha missão é capacitar organizações a desbloquear o potencial latente em seus dados, transformando informações brutas em inteligência estratégica acionável através de **soluções de IA customizadas, ponta a ponta**, que promovem automação, análise em tempo real e geração de insights em escala industrial.
 
+![screencapture-file-C-Users-chaos-Meu-Drive-evolucaoit-gmail-com-PROJETO-BLOCKCHAIN-V4-ALTA-VELOCIDADE-POS-APRIMORADO-PROJETO-MODULAR-BLOCKCHAIN-NOVAGEN-03-2025-V1-doc-web-diagram-20250404-205022-c10ff480-html-2025-](https://github.com/user-attachments/assets/68da70ca-9972-4890-b01a-aff50514cee6)
+
+![screencapture-file-C-Users-chaos-Meu-Drive-evolucaoit-gmail-com-projeto-vectorial-profiler-doc-web-diagram-data-hashtagh-unica-html-2025-04-04-22_14_29](https://github.com/user-attachments/assets/3a46642f-f4a1-408b-b922-7bf7f9143a0c)
+
+
 ---
 
 ## 🎯 Visão e Foco Estratégico: IA Multiagente para Análise de Dados Exponencial

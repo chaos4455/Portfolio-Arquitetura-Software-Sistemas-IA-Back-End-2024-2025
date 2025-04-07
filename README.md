@@ -2,6 +2,8 @@
 
 ### Arquitetando o Futuro da Análise de Dados com Inteligência Artificial Multiagente Avançada e Automação Inteligente
 
+![chrome_ubxx8Q4OzB](https://github.com/user-attachments/assets/b3418bd7-86c4-4989-aef1-506565767614)
+
 ---
 
 ## ✨ Introdução Profissional

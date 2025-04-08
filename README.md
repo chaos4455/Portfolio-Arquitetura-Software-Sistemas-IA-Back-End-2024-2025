@@ -14,6 +14,12 @@ Minha missão é capacitar organizações a desbloquear o potencial latente em s
 
 <img width="1920" alt="chrome_25MaT7Ouok" src="https://github.com/user-attachments/assets/7371121e-2898-476e-8c26-ef5ca90eb3fb" />
 
+![screencapture-file-C-projeto-message-broker-replika-ai-v1-doc-web-diagram-20250408-004137-c1fa35d6-html-2025-04-08-00_42_31](https://github.com/user-attachments/assets/e431e479-73f4-4b20-9958-6a5a0d629ddd)
+
+<img width="1087" alt="chrome_OfCQUHyUY3" src="https://github.com/user-attachments/assets/e173db4c-625e-4737-a52e-1405fef43afd" />
+
+<img width="1091" alt="chrome_7Iw6F4DGjQ" src="https://github.com/user-attachments/assets/258ddb74-78da-4165-845b-f06ba218e0e0" />
+
 
 ![screencapture-file-C-Users-chaos-Meu-Drive-evolucaoit-gmail-com-PROJETO-BLOCKCHAIN-V4-ALTA-VELOCIDADE-POS-APRIMORADO-PROJETO-MODULAR-BLOCKCHAIN-NOVAGEN-03-2025-V1-doc-web-diagram-20250404-205022-c10ff480-html-2025-](https://github.com/user-attachments/assets/68da70ca-9972-4890-b01a-aff50514cee6)
 

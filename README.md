@@ -2,7 +2,50 @@
 
 ### Arquitetando o Futuro da Análise de Dados com Inteligência Artificial Multiagente Avançada e Automação Inteligente
 
-![chrome_ubxx8Q4OzB](https://github.com/user-attachments/assets/b3418bd7-86c4-4989-aef1-506565767614)
+<img width="589" height="338" alt="chrome_n4cXjXTfrk" src="https://github.com/user-attachments/assets/f681c600-f9d5-4eb0-8aac-3bb1de27620f" />
+
+![DevOps Badge](https://img.shields.io/badge/DevOps-Práticas_Ágeis-28a745?style=for-the-badge&logo=devops&logoColor=white)
+![DataOps Badge](https://img.shields.io/badge/DataOps-Engenharia_de_Dados-28a745?style=for-the-badge&logo=datawrapper&logoColor=white)
+![AIOps Badge](https://img.shields.io/badge/AIOps-Inteligência_Operacional-28a745?style=for-the-badge&logo=splunk&logoColor=white)
+![MLOps Badge](https://img.shields.io/badge/MLOps-Ciclo_de_Vida_ML-28a745?style=for-the-badge&logo=mlflow&logoColor=white)
+![ML Badge](https://img.shields.io/badge/Machine%20Learning-Modelagem_Preditiva-28a745?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP Badge](https://img.shields.io/badge/NLP-Processamento_de_Linguagem-28a745?style=for-the-badge&logo=nixos&logoColor=white)
+![LLMs Badge](https://img.shields.io/badge/LLMs-Modelos_de_Linguagem-28a745?style=for-the-badge&logo=openai&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-Backend%2FDados-28a745?style=for-the-badge&logo=python&logoColor=white)
+![Flask Badge](https://img.shields.io/badge/Flask-API_Web-28a745?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-APIs_Assíncronas-28a745?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-Análise_de_Dados-28a745?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy Badge](https://img.shields.io/badge/NumPy-Computação_Numérica-28a745?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-Deep_Learning-28a745?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras Badge](https://img.shields.io/badge/Keras-Redes_Neurais-28a745?style=for-the-badge&logo=keras&logoColor=white)
+![Redes Neurais Badge](https://img.shields.io/badge/Redes%20Neurais-AI%20Modeling-28a745?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Dashboards Badge](https://img.shields.io/badge/Dashboards-Visualização_de_Dados-28a745?style=for-the-badge&logo=powerbi&logoColor=white)
+![Decision Intelligence Badge](https://img.shields.io/badge/Decision%20Intelligence-Tomada_de_Decisão-28a745?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Driven Badge](https://img.shields.io/badge/Data%20Driven-Cultura_de_Dados-28a745?style=for-the-badge&logo=redhat&logoColor=white)
+![Augmented Analytics Badge](https://img.shields.io/badge/Augmented%20Analytics-Insights_Automáticos-28a745?style=for-the-badge&logo=tableau&logoColor=white)
+![Augmented BI Badge](https://img.shields.io/badge/Augmented%20BI-Inteligência_Automatizada-28a745?style=for-the-badge&logo=superset&logoColor=white)
+![DuckDB Badge](https://img.shields.io/badge/DuckDB-Análise_OLAP_In--Process-28a745?style=for-the-badge&logo=duckdb&logoColor=white)
+![Event Streams Badge](https://img.shields.io/badge/Event%20Streams-Kafka_RabbitMQ-28a745?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Microservices Badge](https://img.shields.io/badge/Microsserviços-Arquitetura_Distribuída-28a745?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-Containerização-28a745?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-Orquestração-28a745?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Gemini API Badge](https://img.shields.io/badge/Google%20Gemini%20API-IA%20Generativa-28a745?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT API Badge](https://img.shields.io/badge/ChatGPT%20API-Chatbots%20LLMs-28a745?style=for-the-badge&logo=openai&logoColor=white)
+![BERT Badge](https://img.shields.io/badge/BERT-Embeddings_NLP-28a745?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Word2Vec Badge](https://img.shields.io/badge/Word2Vec-Modelos_de_Linguagem-28a745?style=for-the-badge&logo=gensim&logoColor=white)
+![NLTK Badge](https://img.shields.io/badge/NLTK-Toolkit_NLP-28a745?style=for-the-badge&logo=nixos&logoColor=white)
+![Sentence Transformer Badge](https://img.shields.io/badge/Sentence%20Transformer-Embeddings_Semânticos-28a745?style=for-the-badge&logo=huggingface&logoColor=white)
+![AWS EC2 Badge](https://img.shields.io/badge/AWS%20EC2-Servidores_Cloud-28a745?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS EKS Badge](https://img.shields.io/badge/AWS%20EKS-Kubernetes_Gerenciado-28a745?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Supply Chain Badge](https://img.shields.io/badge/Supply%20Chain-Otimização_Logística-28a745?style=for-the-badge&logo=供应链金融&logoColor=white)
+![Data Engineering Badge](https://img.shields.io/badge/Data%20Engineering-Pipelines_de_Dados-28a745?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Data Architecture Badge](https://img.io/badge/Data%20Architecture-Modelagem_de_Dados-28a745?style=for-the-badge&logo=datagrip&logoColor=white)
+![Decision Support Badge](https://img.shields.io/badge/Suporte%20à%20Decisão-BI_Estratégico-28a745?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Consumer Insights Badge](https://img.shields.io/badge/Consumer%20Insights-Análise_de_Consumo-28a745?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Experiência Recente:**
+
+Atuação focada em **Supply Chain**, **Dados**, **Engenharia e Arquitetura de Dados (DataOps, MLOps)**, **Inteligência Artificial (IA)** e **Automação** para criar soluções escaláveis. Experiência robusta na construção de **Dashboards**, fornecendo **suporte à decisão** através de **insights de consumo** e modelagem avançada utilizando **Redes Neurais** e **Machine Learning**. Além disso, há um forte domínio de **LLMs** e **NLP**, com implementação em **microsserviços** e ambientes **Docker/Kubernetes**, e desenvolvimento **backend com Python, Flask e FastAPI**. Uso de plataformas de nuvem como **AWS (EC2, EKS)** e APIs de IA como **Google Gemini** e **ChatGPT**.
 
 ---
 

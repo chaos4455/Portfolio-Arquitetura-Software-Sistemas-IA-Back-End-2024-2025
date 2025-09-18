@@ -39,7 +39,6 @@
 ![AWS EKS Badge](https://img.shields.io/badge/AWS%20EKS-Kubernetes_Gerenciado-28a745?style=for-the-badge&logo=amazoneks&logoColor=white)
 ![Supply Chain Badge](https://img.shields.io/badge/Supply%20Chain-Otimização_Logística-28a745?style=for-the-badge&logo=供应链金融&logoColor=white)
 ![Data Engineering Badge](https://img.shields.io/badge/Data%20Engineering-Pipelines_de_Dados-28a745?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Data Architecture Badge](https://img.io/badge/Data%20Architecture-Modelagem_de_Dados-28a745?style=for-the-badge&logo=datagrip&logoColor=white)
 ![Decision Support Badge](https://img.shields.io/badge/Suporte%20à%20Decisão-BI_Estratégico-28a745?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Consumer Insights Badge](https://img.shields.io/badge/Consumer%20Insights-Análise_de_Consumo-28a745?style=for-the-badge&logo=tableau&logoColor=white)
 

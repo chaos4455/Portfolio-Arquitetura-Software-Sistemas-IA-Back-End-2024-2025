@@ -1,4 +1,4 @@
-# 🤖 Elias Andrade | Arquiteto de Sistemas de Inteligência Artificial Sênior @ Replika IA Solutions 🚀
+# 🤖 Elias Andrade | Arquiteto de Sistemas de Inteligência Artificial Sênior @ Replika IA Solutions 🚀 
 
 ### Arquitetando o Futuro da Análise de Dados com Inteligência Artificial Multiagente Avançada e Automação Inteligente
 
